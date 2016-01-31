@@ -9,6 +9,7 @@ int main()
 {
 	int t;
 	cout << "nihao" << endl;
+	int pppt;
     return 0;
 }
 
