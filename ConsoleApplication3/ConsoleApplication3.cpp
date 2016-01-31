@@ -2,12 +2,13 @@
 //
 
 #include "stdafx.h"
-
+#include <iostream>
+using namespace std;
 
 int main()
 {
 	int t;
-	
+	cout << "nihao" << endl;
     return 0;
 }
 
